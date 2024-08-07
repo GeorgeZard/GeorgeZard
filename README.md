@@ -53,6 +53,7 @@ Greetings, fellow coders and creators! I am George, a passionate Full Stack Deve
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate awesome commits with AI in 1 second 🤯🔫 (1 week ago)
 - [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive &amp; asynchronous database for powerful React and React Native apps ⚡️ (1 week ago)
 - [FastEndpoints/FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) - Cross platform Go Pty interface (2 weeks ago)
+- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) Awesome self hosted sftp server!
 
 Remember, in the world of code, creativity knows no bounds. Let's build something extraordinary!
 
