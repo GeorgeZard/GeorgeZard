@@ -48,6 +48,11 @@ Greetings, fellow coders and creators! I am George, a passionate Full Stack Deve
    - 🔗 Full-stack web development with .NET technologies
    - 🤖 AI and machine learning implementation in real-world scenarios
 - 🔭 Always exploring new technologies and methodologies
+### ⭐ Recent Stars
+
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate awesome commits with AI in 1 second 🤯🔫 (1 week ago)
+- [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive &amp; asynchronous database for powerful React and React Native apps ⚡️ (1 week ago)
+- [FastEndpoints/FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) - Cross platform Go Pty interface (2 weeks ago)
 
 Remember, in the world of code, creativity knows no bounds. Let's build something extraordinary!
 
