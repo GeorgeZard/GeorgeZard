@@ -1,5 +1,4 @@
 
-###
 
 <div align="center">
   <a href="your-facebook-url" target="_blank" rel="noopener noreferrer">
@@ -13,11 +12,10 @@
   </a>
 </div>
 
-###
 
 
 <h1 align="center"><a href="https://github.com/GeorgeZard">George Zardavas</a></h1>
-###
+
 
 
 <h3 align="left">👩‍💻  About Me</h3>
