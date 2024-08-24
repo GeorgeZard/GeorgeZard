@@ -27,7 +27,7 @@ Greetings, fellow coders and creators! I am George, a passionate Full Stack Deve
 - 🚀 Currently working on:
   - [NinePos.BackOffice](https://github.com/YourUsername/AwesomeApp)
   - [Clean.BlazorServer Implementation](https://github.com/Georg/CoolProject)
-  - [BGRemove]()
+  - [BGRemove](https://github.com/GeorgeZard/rembg-serverless) A simple flask app to remove the background of an image with Rembg and currently deployed on Google Cloud Run
 - 🌱 Expanding my skills in:
    • 🔥 [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor) on ASP.NET 8
    • 🎨 Web design with [Tailwind CSS](https://tailwindcss.com/)
