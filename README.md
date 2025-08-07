@@ -26,7 +26,6 @@ Greetings, fellow coders and creators! I am George, a passionate Full Stack Deve
 
 - 🚀 Currently working on:
   - [NinePos.BackOffice](https://github.com/YourUsername/AwesomeApp)
-  - [Clean.BlazorServer Implementation](https://github.com/Georg/CoolProject)
   - [BGRemove](https://github.com/GeorgeZard/rembg-serverless) A simple flask app to remove the background of an image with Rembg and currently deployed on Google Cloud Run
 - 🌱 Expanding my skills in:
    • 🔥 [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor) on ASP.NET 8
@@ -49,7 +48,7 @@ Greetings, fellow coders and creators! I am George, a passionate Full Stack Deve
    - 🤖 AI and machine learning implementation in real-world scenarios
 - 🔭 Always exploring new technologies and methodologies
 ### ⭐ Recent Stars
-
+- [Arcenox-co/TickerQ](https://github.com/Arcenox-co/TickerQ) - TickerQ is a fast, reflection-free background task scheduler for .NET — built with source generators, EF Core integration, cron + time-based execution, and a real-time dashboard. (Today)
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate awesome commits with AI in 1 second 🤯🔫 (1 week ago)
 - [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive &amp; asynchronous database for powerful React and React Native apps ⚡️ (1 week ago)
 - [FastEndpoints/FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) - Cross platform Go Pty interface (2 weeks ago)
